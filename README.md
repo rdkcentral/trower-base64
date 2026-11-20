@@ -1,5 +1,10 @@
 # trower-base64
 
+C implementation of base64 encode/decode.
+
+This is a fork of the implementation Bob Trower produced and released in 2001.
+You can find the original here: http://base64.sourceforge.net/
+
 ## Origin
 
 This repository is based on the original
@@ -9,11 +14,6 @@ rdkcentral organization, where ongoing maintenance and development now take plac
 
 - Original project: https://github.com/xmidt-org/trower-base64
 - Current repository: https://github.com/rdkcentral/trower-base64
-
-C implementation of base64 encode/decode.
-
-This is a fork of the implementation Bob Trower produced and released in 2001.
-You can find the original here: http://base64.sourceforge.net/
 
 # Why fork?
 
